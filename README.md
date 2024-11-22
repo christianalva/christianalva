@@ -1,5 +1,4 @@
-Hola👋 soy Christian
-
+<h1 align="center">Hola👋 soy Christian </h1> 
 <!-----------
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
