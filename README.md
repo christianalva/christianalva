@@ -11,7 +11,8 @@ Hola👋 soy Christian
 🎓 TECNICO ELECTRONICO
 <br>
 💻 ESTUDIANTE DE LICENCIATURA EN SISTEMAS (UNLP)
-
+<br>
+📫 Contacto: christianezequiel2011@gmail.com
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
