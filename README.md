@@ -1,16 +1,24 @@
-## Hi there 👋
+Hola👋 soy Christian
 
-<!--
-**christianalva/christianalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-----------
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+	</a>
+</p>
+--------------->
 
-Here are some ideas to get you started:
+🎓 TECNICO ELECTRONICO
+<br>
+💻 ESTUDIANTE DE LICENCIATURA EN SISTEMAS (UNLP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,java,py,css,html,js,git,github,vscode&perline=12" />
+  </a>
+</p>
+<br>
+
